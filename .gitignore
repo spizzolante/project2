@@ -1,0 +1,9 @@
+# gitignore
+
+project2_env
+resources/pictures/
+slides/tableau_public/
+requirements-dev.in
+requirements.in
+.DS_Store
+
